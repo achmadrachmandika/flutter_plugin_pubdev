@@ -18,4 +18,5 @@ Praktikum penerapan plugin pada project flutter
 
 6. Buka file main.dart lalu tambahkan di dalam children: pada class \_MyHomePageState
    <img src='assets\main_1.jpg'> 7. Hasil dari kode program tersebut
+
    <img src='assets\hasil.jpg'>
